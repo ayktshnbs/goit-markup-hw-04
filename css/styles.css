@@ -398,11 +398,11 @@ ol, ul  {
     margin-bottom: 8px;
 }
 .portfolio-list-item:hover{
-    .portfolio-text-content{
+    p.portfolio-content{
         transform: translateY(0%);
     }
 }
-.portfolio-text-content {
+p.portfolio-content {
     letter-spacing: 0.02em;
     position: absolute;
     left: 0;
