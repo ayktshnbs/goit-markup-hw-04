@@ -397,13 +397,8 @@ ol, ul  {
     letter-spacing: 0.02em;
     margin-bottom: 8px;
 }
-<<<<<<< HEAD
 .portfolio-item-wrap:hover{
     .portfolio-content{
-=======
-.portfolio-list-item:hover{
-    p.portfolio-content{
->>>>>>> 13745c353d1eda34f1dd7e3dde246d2590a42d85
         transform: translateY(0%);
     }
 }
@@ -424,7 +419,7 @@ p.portfolio-content {
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
 }
-.portfolio-item-wrap{
+.portfolio-item-wrap {
 
     position: relative;
     overflow: hidden;
