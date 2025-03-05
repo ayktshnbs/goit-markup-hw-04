@@ -397,7 +397,7 @@ ol, ul  {
     letter-spacing: 0.02em;
     margin-bottom: 8px;
 }
-.portfolio-list-item:hover{
+.portfolio-item-wrap:hover{
     .portfolio-content{
         transform: translateY(0%);
     }
