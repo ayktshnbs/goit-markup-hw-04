@@ -401,8 +401,9 @@ ol, ul  {
     .portfolio-content{
         transform: translateY(0%);
     }
+    
 }
-p.portfolio-content {
+.portfolio-content {
     letter-spacing: 0.02em;
     position: absolute;
     left: 0;
