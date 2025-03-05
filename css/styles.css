@@ -403,7 +403,6 @@ ol, ul  {
     }
 }
 p.portfolio-content {
-    transition: translateY(0%);
     letter-spacing: 0.02em;
     position: absolute;
     left: 0;
