@@ -436,11 +436,12 @@ footer{
     background-color: #2E2F42;
     letter-spacing: 17.33;
     padding: 100px 0;
-    display: flex;
-    align-items: baseline;
+    
 }
-.footer-information{
-    width: 264px;
+.footer > .container{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
 }
 
 .footer-text{
@@ -510,3 +511,4 @@ footer{
     height: 24px;
     fill: #F4F4FD;
 }
+
